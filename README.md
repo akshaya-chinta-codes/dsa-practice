@@ -16,4 +16,4 @@ A collection of Data Structures and Algorithms implementations as part of my BE 
 I'm a 1st year CSE student passionate about AI and software development.
 Aiming to build a career in Generative AI.
 
-Connect with me on [LinkedIn](www.linkedin.com/in/akshaya-chinta-017ak)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/akshaya-chinta-017ak)
