@@ -37,7 +37,7 @@ void main(){
 					scanf("%d", &x);
 					push(x); display(); break;
 					
-			case 2: pop(); display(); break();
+			case 2: pop(); display(); break;
 			case 3: display(); break;
 			case 4: exit(0);
 			default: printf("\n Invalid Choice");
